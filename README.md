@@ -4,7 +4,6 @@
 Builder • Problem Solver • Software Developer
 </p>
 
----
 
 ## 👨‍💻 About Me
 
@@ -13,16 +12,13 @@ My interests sit at the intersection of software, AI, and data driven systems.
 
 I like designing clean systems, experimenting with new technologies, and turning ideas into usable products.
 
----
+## 🚧 Currently:
 
-## 🚧 Currently Up To
+• Developer @ BMO  
+• SYDE @ UWaterloo
+• Building things I love 
+• Experimenting with AI and system architecture!
 
-• Building software tools that solve real world problems  
-• Exploring AI powered applications  
-• Learning more about scalable backend systems  
-• Experimenting with product ideas and startup concepts  
-
----
 
 ## 🛠 Languages, Tools, and Frameworks
 

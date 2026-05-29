@@ -1,6 +1,6 @@
-<h1 align="center">hey, i'm evan!</h1>
+<h1 align="center">hey, i'm evan</h1>
 
-<p align="left">
+<p align="center">
   <em><strong>systems design engineering</strong> @ <strong>uwaterloo</strong></em><br>
 </p>
 
@@ -10,4 +10,5 @@
 - building TRACE: diagnosing AI agent failures @ WAT.ai
 - prev @ BMO
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=evanzyang91)](https://github.com/anuraghazra/github-readme-stats)
+### contact me:
+| [linkedin](https://www.linkedin.com/in/evanzyang/) | [x](https://x.com/evanzyangg) | [website](https://www.evanzyang.ca) | [email](mailto:e225yang@uwaterloo.ca) |

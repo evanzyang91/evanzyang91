@@ -5,6 +5,7 @@
 </p>
 
 ### about me:
+- swe @ shopify
 - full-stack developer
 - interested in AI infrastructure/applications
 - building TRACE: diagnosing AI agent failures @ WAT.ai
